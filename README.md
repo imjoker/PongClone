@@ -1,6 +1,6 @@
 # Pong
 
-A clone of 1972's famous tennis-themed 2D game called Pong.
+A clone of 1972's legacy Pong, a tennis-themed 2D game, but with an AI opponent. Whoever wins five rounds first is considered the winner.
 
 ### Features include:
 - AI racket that automatically follows the ball.
